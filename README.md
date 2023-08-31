@@ -1,3 +1,3 @@
 # Sizing-an-Image
 
-https://vukstatictodo.ccbp.tech/
+https://vuksizeimage.ccbp.tech/
